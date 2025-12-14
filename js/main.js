@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "WEB3_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "6e3c28fd-39db-4263-9f5e-65592228d76b";
     async function submitForm(e) {
         e.preventDefault();
 
