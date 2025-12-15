@@ -1,5 +1,6 @@
 # Awdesh Nandan Enterprises — Static Website
 This is a ready-to-deploy static website codebase for **Awdesh Nandan Enterprises**, suitable for LCNG, pipeline and EPC contracting company profiles.
+deployed: https://awdeshnandanenterprises.netlify.app/
 
 ## What's included
 - `index.html`, `about.html`, `services.html`, `projects.html`, `contact.html`
